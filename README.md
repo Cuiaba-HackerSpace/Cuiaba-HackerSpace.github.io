@@ -13,6 +13,10 @@ Segundo a  [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace) :
 > geralmente em computadores, tecnologia, ciência ou arte digital ou
 > eletrônica podem se encontrar, socializar e/ou colaborar".
 
+Conheça alguns dos Hackerspaces no Brasil: 
+https://wiki.hackerspaces.org/Brazil
+
+
 **Quais são os objetivos do Hackerspace proposto por vocês?**
 
 >     1 - Compartilhar conhecimento relacionados a tecnologia.
