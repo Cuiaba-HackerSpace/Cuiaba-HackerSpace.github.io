@@ -8,14 +8,12 @@ A nossa intenção é a de criar um Hackerspace, inicialmente de maneira virtual
 
 **O que são Hackerspaces?**
 
-Segundo a  [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace) : 
+Segundo a [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace) : 
 > "Hackerspaces são locais aonde pessoas com interesses comuns,
 > geralmente em computadores, tecnologia, ciência ou arte digital ou
 > eletrônica podem se encontrar, socializar e/ou colaborar".
 
-Conheça alguns dos Hackerspaces no Brasil: 
-https://wiki.hackerspaces.org/Brazil
-
+[Conheça alguns dos Hackerspaces no Brasil:](https://wiki.hackerspaces.org/Brazil)
 
 **Quais são os objetivos do Hackerspace proposto por vocês?**
 
