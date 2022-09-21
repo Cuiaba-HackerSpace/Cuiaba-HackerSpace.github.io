@@ -13,22 +13,28 @@ Segundo a [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace) :
 > geralmente em computadores, tecnologia, ciência ou arte digital ou
 > eletrônica podem se encontrar, socializar e/ou colaborar".
 
-[Conheça alguns dos Hackerspaces no Brasil:](https://wiki.hackerspaces.org/Brazil)
+[Conheça alguns dos Hackerspaces no Brasil](https://wiki.hackerspaces.org/Brazil)
 
 **Quais são os objetivos do Hackerspace proposto por vocês?**
 
 >     1 - Compartilhar conhecimento relacionados a tecnologia.
->     2 - Desenvolver de forma colaborativa em projetos interessantes e legais, propostos pelos membros.
->     3 - Fortalecer a comunidade tecnológica de Cuiabá/Mato-grosso
+>     2 - Desenvolver de forma colaborativa e open-source projetos interessantes e legais, propostos e votados pelos membros.
+>     3 - Fortalecer a comunidade tecnológica de Cuiabá/Mato-grosso.
 
 **Quem poderá participar? Existe algum pré-requisito?**
 
     Qualquer um poderá participar, o único pré-requisito indispensável é o interesse.
-    Sem o interesse a comunidade se enfraquece, deixando de existir. 
     Não existirá nenhum requisito de idade, gênero ou de nível de conhecimento para ingressar.
 
-    Todos são bem vindos:
-     Desde estudantes programadores á scrum masters. Qualquer pessoa interessa tem algo a contribuir.
+**Qual linguagem devo saber para participar?**
+
+    Você pode particiar sem nem conhecer alguma linguagem de programação...
+
+    Ao longo do projeto pretendemos realizar alguns encontros com o objetivo de nivelar os membros,
+    qualquer dificuldade que notarmos na realização dos eventos/encontros/projetos pode virar um tópico para o próximo encontro.
+
+    Por exemplo.. se você não souber usar o git para contribuir em nosso repositório central, 
+    iremos realizar um encontro ensinando o básico de git.
 
 **Existe algum fim lucrativo por trás desta ideia?**
 
@@ -54,10 +60,10 @@ Segundo a [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace) :
 
 **Quem irá ministrar os encontros?**
 
-    Qualquer um com o conhecimento necessário poderá ministrar os encontros,
-    podendo ser um ou mais "orientadores", todos os encontros, obrigatóriamente, serão na modalidade P2P, se algum participante 
-    puder acrescentar em algo no tema, ele poderá levantar a mão e falar.
+    Qualquer um com o conhecimento necessário poderá ministrar os encontros, podendo ser um ou mais "orientadores".
 
+    Todos os encontros, obrigatóriamente, serão na modalidade P2P, se algum participante 
+    puder acrescentar em algo no tema, ele poderá levantar a mão e falar.
 
 # Opiniões/Sugestões
 
@@ -70,7 +76,7 @@ Se você julga necessário alguma mudança na proposta e/ou sugestões, por favo
 Caso você tenha gostado da ideia e deseja participar se ela for concretizada, por favor deixe sua intenção através do formulário abaixo! 
 Lembrando que isso não gera nenhum compromisso seu com a iniciativa. 
 
-**NENHUM dado seu será compartilhado com terceiros**, a única utilização dos dados será o envio do **convite** caso o projeto avance. 
+**NENHUM dado seu será compartilhado com terceiros**, a única utilização dos dados será o envio do **convite** caso o projeto avance.
 
 [QUERO PARTICIPAR](https://my.forms.app/form/63163ba8afe7f34ef8876c73)
 
