@@ -3,6 +3,8 @@
 A intenção desta página é reunir, em forma de lista, pessoas interessadas no projeto aqui proposto.
 Não há nenhum tipo de compromisso para aqueles que se interessarem com o projeto, o objetivo da lista é exclusivamente na forma de pesquisa, com o objetivo de entender se faz sentido ou não para a comunidade.
 
+[QUERO PARTICIPAR](https://my.forms.app/form/63163ba8afe7f34ef8876c73)
+
 ## Proposta
 A nossa intenção é a de criar um Hackerspace, inicialmente de maneira virtual.
 
