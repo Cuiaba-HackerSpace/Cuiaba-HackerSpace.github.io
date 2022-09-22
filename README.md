@@ -26,60 +26,62 @@ interessantes e legais, propostos e votados pelos membros.
 
 **Quem poderá participar? Existe algum pré-requisito?**
 
-    Qualquer um poderá participar, o único 
-    pré-requisito indispensável é o interesse. 
-    Não existirá nenhum requisito de idade, 
-    gênero ou de nível de conhecimento para ingressar.    
+> Qualquer um poderá participar, o único 
+> pré-requisito indispensável é o interesse. 
+> Não existirá nenhum requisito de idade, 
+> gênero ou de nível de conhecimento para ingressar.    
 
 **Qual linguagem devo saber para participar?**
 
-    Você pode particiar sem nem conhecer alguma 
-    linguagem de programação...
-
-    Ao longo do projeto pretendemos realizar alguns 
-    encontros com o objetivo de nivelar os membros,
-    qualquer dificuldade que notarmos na realização 
-    dos eventos/encontros/projetos pode virar um tópico 
-    para o próximo encontro.
-
-    Por exemplo.. se você não souber usar o git para contribuir 
-    em nosso repositório central, iremos realizar um encontro ensinando 
-    o básico de git.
+>Você pode particiar sem nem conhecer alguma 
+>linguagem de programação...
+>
+>Ao longo do projeto pretendemos realizar alguns 
+>encontros com o objetivo de nivelar os membros,
+>qualquer dificuldade que notarmos na realização 
+>dos eventos/encontros/projetos pode virar um tópico 
+>para o próximo encontro.
+>
+>Por exemplo.. se você não souber usar o git para contribuir 
+>em nosso repositório central, iremos realizar um encontro ensinando 
+>o básico de git.
 
 **Existe algum fim lucrativo por trás desta ideia?**
 
-    Jamais existirá nenhum fim lucrativo, qualquer valor recebido 
-    para o grupo será convertido em benefício do grupo e de todos 
-    os participantes.
-
-    Todo evento/projeto que houver uma necessidade financeira 
-    deverá ter total transparência desde a arrecadação 
-    até os gastos, a arrecadação SEMPRE será na modalidade de doação.
+>Jamais existirá nenhum fim lucrativo, qualquer valor recebido 
+>para o grupo será convertido em benefício do grupo e de todos 
+>os participantes.
+>
+>Todo evento/projeto que houver uma necessidade financeira 
+>deverá ter total transparência desde a arrecadação 
+>até os gastos, a arrecadação SEMPRE será na modalidade de doação.
 
 **Como serão os encontros?**
 
-    Por enquanto os encontros serão feitos de maneira virtual e 
-    em alguns momentos presenciais (local ainda não definido), 
-    mas o nosso objetivo final é criar um espaço físico que possa 
-    ser usado para os projetos.
-    
-    As datas e os horários serão votados pelos membros por encontro, de acordo 
-    com a disponibilidade de cada um para que possamos ter a maior participação possível.
-    
-    A periodicidade dos encontros também será votada.
+>Por enquanto os encontros serão feitos de maneira virtual e 
+>em alguns momentos presenciais (local ainda não definido), 
+>mas o nosso objetivo final é criar um espaço físico que possa 
+>ser usado para os projetos.
+>  
+>As datas e os horários serão votados pelos membros por encontro, de acordo 
+>com a disponibilidade de cada um para que possamos ter a maior participação 
+>possível.
+>
+>A periodicidade dos encontros também será votada.
 
 **Irá existir algum tipo de obrigação em participar dos encontros?**
 
-    Jamais será cobrado participação de ninguém, a idéia é que o grupo 
-    seja orgânico não dependendo nem mesmo de seus fundadores.
+>Jamais será cobrado participação de ninguém, a idéia é que o grupo 
+>seja orgânico não dependendo nem mesmo de seus fundadores.
 
 **Quem irá ministrar os encontros?**
 
-    Qualquer um com o conhecimento necessário poderá ministrar os encontros, 
-    podendo ser um ou mais "orientadores".
-
-    Todos os encontros, obrigatóriamente, serão na modalidade P2P, se algum participante 
-    puder acrescentar em algo no tema, ele poderá levantar a mão e falar.
+>Qualquer um com o conhecimento necessário poderá ministrar os encontros, 
+>podendo ser um ou mais "orientadores".
+>
+>Todos os encontros, obrigatóriamente, serão na modalidade P2P, 
+>se algum participante puder acrescentar em algo no tema, ele 
+>poderá levantar a mão e falar.
 
 # Opiniões/Sugestões
 
@@ -92,10 +94,12 @@ por favor, nos envie!
 [Enviar sugestão](https://my.forms.app/form/6316387aafe7f34ef887674d)
 
 # Lista de assinaturas
-Caso você tenha gostado da ideia e deseja participar se ela for concretizada, por favor deixe sua intenção através do formulário abaixo! 
+Caso você tenha gostado da ideia e deseja participar se ela for concretizada, 
+por favor deixe sua intenção através do formulário abaixo! 
 Lembrando que isso não gera nenhum compromisso seu com a iniciativa. 
 
-**NENHUM dado seu será compartilhado com terceiros**, a única utilização dos dados será o envio do **convite** caso o projeto avance.
+**NENHUM dado seu será compartilhado com terceiros**, 
+a única utilização dos dados será o envio do **convite** caso o projeto avance.
 
 [QUERO PARTICIPAR](https://my.forms.app/form/63163ba8afe7f34ef8876c73)
 
