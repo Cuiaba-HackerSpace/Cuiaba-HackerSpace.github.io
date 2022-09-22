@@ -3,7 +3,7 @@
 A intenção desta página é reunir, em forma de lista, pessoas interessadas no projeto aqui proposto.
 Não há nenhum tipo de compromisso para aqueles que se interessarem com o projeto, o objetivo da lista é exclusivamente na forma de pesquisa, com o objetivo de entender se faz sentido ou não para a comunidade.
 
-[QUERO PARTICIPAR](https://my.forms.app/form/63163ba8afe7f34ef8876c73)
+[QUERO PARTICIPAR](https://forms.gle/tdCt3dHfz72HxPRf6)
 
 ## Proposta
 A nossa intenção é a de criar um Hackerspace, inicialmente de maneira virtual.
@@ -91,7 +91,7 @@ o objetivo principal é servir a comunidade!
 Se você julga necessário alguma mudança na proposta e/ou sugestões, 
 por favor, nos envie!
 
-[Enviar sugestão](https://my.forms.app/form/6316387aafe7f34ef887674d)
+[Enviar sugestão](https://forms.gle/95yWo49WDuvJWoLHA)
 
 # Lista de assinaturas
 Caso você tenha gostado da ideia e deseja participar se ela for concretizada, 
@@ -101,5 +101,5 @@ Lembrando que isso não gera nenhum compromisso seu com a iniciativa.
 **NENHUM dado seu será compartilhado com terceiros**, 
 a única utilização dos dados será o envio do **convite** caso o projeto avance.
 
-[QUERO PARTICIPAR](https://my.forms.app/form/63163ba8afe7f34ef8876c73)
+[QUERO PARTICIPAR](https://forms.gle/tdCt3dHfz72HxPRf6)
 
