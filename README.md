@@ -26,7 +26,7 @@ interessantes e legais, propostos pelos membros.
 
 **Que tipo de projetos/encontros serão feitos**
 
-> Isso será definido de acordo com o interesse dos membros, mas alguns itens que com certeza serão realizados:
+> Isso será definido de acordo com o interesse dos membros, mas alguns itens que com certeza serão realizados:  
 > 1 - Sistemas para uso e organização do HackerSpace    
 > 2 - Projetos em arduino/esp   
 > 3 - Hackatons/Coding Dojos    
