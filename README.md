@@ -21,8 +21,18 @@ Segundo a [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace) :
 
 > 1 - Compartilhar conhecimento relacionados a tecnologia.  
 > 2 - Desenvolver de forma colaborativa e open-source projetos   
-interessantes e legais, propostos e votados pelos membros.   
+interessantes e legais, propostos pelos membros.   
 > 3 - Fortalecer a comunidade tecnológica de Cuiabá/Mato-grosso.
+
+**Que tipo de projetos/encontros serão feitos**
+
+> Isso será definido de acordo com o interesse dos membros, mas alguns itens que com certeza serão realizados:
+> 1 - Sistemas para uso e organização do HackerSpace    
+> 2 - Projetos em arduino/esp   
+> 3 - Hackatons/Coding Dojos    
+> 4 - Estudo e exploração de vulnerabilidades conhecidas    
+> 5 - Capture the Flag's    
+> 6 - Live coding
 
 **Quem poderá participar? Existe algum pré-requisito?**
 
